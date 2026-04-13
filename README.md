@@ -20,7 +20,7 @@ Plankton AI empowers farmers with instant and accurate **plant disease detection
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/Siaameseeee/Plankton-AI-Siaa.git
+git clone https://github.com/amritesh-0/Plankton-AI.git
 cd Plankton-AI
 ```
 
@@ -92,3 +92,13 @@ git lfs pull
 ```
 
 ---
+
+## 🤛‍♂️ About the Author
+
+Built with 💡 by [Amritesh Kumar](https://github.com/amritesh-0), CEO at [Localyse.in](https://localyse.in), to bring smart agricultural solutions using AI.
+
+---
+
+## 📜 License
+
+This project is open-source and free to use under the **MIT License**.
