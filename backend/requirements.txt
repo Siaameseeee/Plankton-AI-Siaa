@@ -1,6 +1,0 @@
-Flask
-Flask-CORS
-numpy
-opencv-python
-scikit-learn
-joblib
