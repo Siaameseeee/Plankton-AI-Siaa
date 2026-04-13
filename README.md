@@ -20,7 +20,7 @@ Plankton AI empowers farmers with instant and accurate **plant disease detection
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/amritesh-0/Plankton-AI.git
+git clone https://github.com/Siaameseeee/Plankton-AI-Siaa.git
 cd Plankton-AI
 ```
 
